@@ -1,0 +1,4 @@
+Jane Doe
+Email: jane.doe@example.com
+Phone: 555-123-4567
+Skills: Python, Flask, React

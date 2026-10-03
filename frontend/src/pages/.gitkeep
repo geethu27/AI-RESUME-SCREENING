@@ -1,0 +1,2 @@
+// Frontend Pages (Dashboard, Jobs, Resumes, Screening, CandidateDetails, Chat)
+export default {};

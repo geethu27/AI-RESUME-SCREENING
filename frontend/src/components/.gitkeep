@@ -1,0 +1,2 @@
+// Frontend UI Components (Navbar, Sidebar, JobCard, CandidateCard, etc.)
+export default {};
